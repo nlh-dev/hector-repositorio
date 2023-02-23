@@ -1,0 +1,25 @@
+.list{
+    width: 200px;
+    height: 800px;
+    border: 2px solid #000;
+    padding: 10px;
+}
+
+.tachado{
+    text-decoration: line-through;
+}
+
+.destachado{
+    text-decoration: line-through;
+}
+
+
+.light{
+    background: #ddd;
+    transition: .5s;
+}
+
+.dark{
+    background: #333;
+    color: #fff;
+}
